@@ -1,7 +1,7 @@
 package durgaSoft;
 
 /*
-Author : Venu Nallala
+Author : Venu
 */
 public class Test2 {
 static{
